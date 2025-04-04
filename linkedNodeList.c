@@ -3,7 +3,7 @@
 
 /* 
     Author: Hayden Stewart
-    Filename: lab6.c
+    Filename: linkedNodeList.c - formerly - cs241->lab6.c
 */
 
 /* struct for a node in the linked list */
@@ -22,7 +22,6 @@ void reverseDispList();
 /* Function to display the linked list */
 void displayList();
 
-/* Main Function (DO NOT EDIT) */
 int main() {
     int n;
 
